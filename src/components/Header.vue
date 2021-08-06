@@ -1,5 +1,5 @@
 <template>
-  <div id="header">
+  <div id="header" class="container">
     <div class="logo">Pets Stories</div>
     <i class="fas fa-bars"></i>
   </div>
