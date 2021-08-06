@@ -11,7 +11,7 @@ import PetAndDog from "./components/PetAndDog.vue";
 
 export default {
   name: "App",
-  component: {
+  components: {
     Header,
     PetAndDog,
   },
@@ -20,10 +20,9 @@ export default {
 
 <style lang="scss">
 #app {
-  font-family: "Montserrat", sans-serif;
-  // font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
+  // font-family: "Montserrat", sans-serif;
   // font-family: 'PT Sans', sans-serif;
   // font-family: 'Roboto', sans-serif;
-  text-align: center;
 }
 </style>
