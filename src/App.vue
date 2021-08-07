@@ -2,18 +2,21 @@
   <div id="app">
     <Header />
     <PetAndDog />
+    <SmallDogs />
   </div>
 </template>
 
 <script>
 import Header from "./components/Header.vue";
 import PetAndDog from "./components/PetAndDog.vue";
+import SmallDogs from "./components/SmallDogs.vue";
 
 export default {
   name: "App",
   components: {
     Header,
     PetAndDog,
+    SmallDogs,
   },
 };
 </script>
