@@ -3,6 +3,7 @@
     <Header />
     <PetAndDog />
     <SmallDogs />
+    <DogTraining />
   </div>
 </template>
 
@@ -10,6 +11,7 @@
 import Header from "./components/Header.vue";
 import PetAndDog from "./components/PetAndDog.vue";
 import SmallDogs from "./components/SmallDogs.vue";
+import DogTraining from "./components/DogTraining.vue";
 
 export default {
   name: "App",
@@ -17,6 +19,7 @@ export default {
     Header,
     PetAndDog,
     SmallDogs,
+    DogTraining,
   },
 };
 </script>
