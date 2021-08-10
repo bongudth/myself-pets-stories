@@ -1,5 +1,5 @@
 <template>
-  <div id="dog-care">
+  <div id="pet-food">
     <div class="background"></div>
     <div class="content container">
       <img src="../assets/fdg-min.jpg" alt="fdg-min" />
@@ -54,7 +54,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-#dog-care {
+#pet-food {
   height: 890px;
   margin-top: 1083px;
 
