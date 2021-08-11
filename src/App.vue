@@ -6,6 +6,7 @@
     <DogTraining />
     <PetFood />
     <DogCare />
+    <SweetHeart />
   </div>
 </template>
 
@@ -16,6 +17,7 @@ import SmallDogs from "./components/SmallDogs.vue";
 import DogTraining from "./components/DogTraining.vue";
 import PetFood from "./components/PetFood.vue";
 import DogCare from "./components/DogCare.vue";
+import SweetHeart from "./components/SweetHeart.vue";
 
 export default {
   name: "App",
@@ -26,6 +28,7 @@ export default {
     DogTraining,
     PetFood,
     DogCare,
+    SweetHeart,
   },
 };
 </script>
