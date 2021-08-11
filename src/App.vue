@@ -7,6 +7,7 @@
     <PetFood />
     <DogCare />
     <SweetHeart />
+    <ContactUs />
   </div>
 </template>
 
@@ -18,6 +19,7 @@ import DogTraining from "./components/DogTraining.vue";
 import PetFood from "./components/PetFood.vue";
 import DogCare from "./components/DogCare.vue";
 import SweetHeart from "./components/SweetHeart.vue";
+import ContactUs from "./components/ContactUs.vue";
 
 export default {
   name: "App",
@@ -29,6 +31,7 @@ export default {
     PetFood,
     DogCare,
     SweetHeart,
+    ContactUs,
   },
 };
 </script>
