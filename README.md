@@ -1,5 +1,10 @@
 # pets-stories
 
+a landing page made by bongudth
+
+![image](https://user-images.githubusercontent.com/73637868/128991037-b8ca2b6b-cd20-47ae-a169-2925fb9d7d77.png)
+
+
 ## Project setup
 ```
 npm install
